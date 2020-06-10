@@ -2,14 +2,14 @@ module.exports = ({
   basePath = "/",
   contentPath = "content/",
   showThemeLogo = true,
-  theme = "classic",
+  theme = "dark-blue",
 }) => {
   return {
     siteMetadata: {
-      description: "Personal page of John Doe",
+      description: "Stephen Ajulu's Personal Page",
       locale: "en",
       showThemeLogo,
-      title: "John Doe",
+      title: "Stephen Ajulu",
     },
     plugins: [
       {
