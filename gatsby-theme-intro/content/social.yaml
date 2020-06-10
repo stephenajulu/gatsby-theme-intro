@@ -1,26 +1,26 @@
 - name: linkedin
-  url: https://linkedin.com/in/username
+  url: https://www.linkedin.com/in/stephenajulu/
 
 - name: twitter
-  url: https://twitter.com/username
+  url: https://twitter.com/stephenajulu
 
 - name: facebook
-  url:
+  url: https://www.facebook.com/stephenajulu
 
 - name: instagram
-  url:
+  url: https://www.instagram.com/stephenajulu
 
 - name: dribbble
-  url:
+  url: https://dribbble.com/stephenajulu
 
 - name: behance
-  url:
+  url: 
 
 - name: producthunt
   url:
 
 - name: github
-  url: https://github.com/username
+  url: https://github.com/stephenajulu/
 
 - name: goodreads
   url:
