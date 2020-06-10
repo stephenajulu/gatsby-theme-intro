@@ -44,7 +44,7 @@
   image: images/project.jpg
   
 - name: Zewalt
-  url: #
+  url: https://zewalt.netlify.app
   description: An andoid app + website that seeks to un bank individuals. Giving them their own virtual bank, virtual wallet and virtual credit card. Where they can trade stocks, buy/sell cryptocurrencies, save money, invest, pay bills,  and more.
   status: in progress
   tags:
