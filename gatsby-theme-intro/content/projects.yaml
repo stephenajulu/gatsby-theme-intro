@@ -1,18 +1,81 @@
-- name: Example 1
-  url: https://github.com
-  description: Override the digital divide with additional clickthroughs from DevOps. User generated content in real-time will have multiple touchpoints for offshoring.
+- name: Tropical Health Information System(THIS)
+  url: https://j-this.netlify.com
+  description: A database that holds information on tropical health problems, their prevention, vaccination, cure and other vital data to help doctors diagnose and treat such issues.
   status: in progress
   tags:
-    - JavaScript
-    - Gatsby
-  icon: github
+    - Python
+    - Javascript
+    - MySQL
+  icon: website
 
-- name: Example 2
-  url: https://github.com
-  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
-  status: live
+- name: Tech6 Elearning Platform
+  url: https://tech6el.netlify.app
+  description: An interactive, affordable and intensive e-learning platform for tech enthusiast covering topics with STEM in 4 ways: Video, Slideshow/Flashcards, Rich Text and AudioBooks.
+  status: in progress
   tags:
-    - JavaScript
-    - HTML
+    - JAMstack
+    - PWA
+    - Memberful
+    - Snipcart
+  icon: website
+  image: images/project.jpg
+  
+- name: BioLink, BioEmergency
+  url: https://biolinkme.netlify.app/bioemergency
+  description: BioLink is a company that seeks to create a centralized, secure data storage system for people with easy access. Their first product BioEmergency is a centralized health history information system that allow people to track their health and easy access to their history incase of emergencies.
+  status: in progress
+  tags:
+    - JAMstack
+    - PWA
+    - Memberful
+    - Snipcart
+  icon: website
+  image: images/project.jpg
+  
+- name: MRI Analysis and Report Neural Net
+  url: https://miarnn.netlify.app
+  description: An MRI Analysis and Report Neural Net designed to spot irregularities in MRI images such as cancer, tumors and more.
+  status: in progress
+  tags:
+    - MRI
+    - Neural Net
+    - Machine Learning
+  icon: website
+  image: images/project.jpg
+  
+- name: Zewalt
+  url: #
+  description: An andoid app + website that seeks to un bank individuals. Giving them their own virtual bank, virtual wallet and virtual credit card. Where they can trade stocks, buy/sell cryptocurrencies, save money, invest, pay bills,  and more.
+  status: in progress
+  tags:
+    - Android
+    - Virtual Bank
+    - Cryptocurrency
+    - Stocks
+    - Bonds
+    - Money
+  icon: website
+  image: images/project.jpg
+  
+- name: Free Solar Powered Long Range(50KM) 5mb WiFi attached to Cellphone Towers(or self made towers) for Kenya and soon after East Africa
+  url: https://splrwifi.netlify.app
+  description: Just as the name suggests. A free solar powered long range 5mb Wi-Fi attached to Cellphone towers belonging to Kenya's Cellular Networks then afte East Africa, Africa and the world. This is meant to help those with low income and those living in rural areas to explore the beauty of the Internet and fast pace Kenya into a 2nd World Country.
+  status: in progress
+  tags:
+    - Long Range Wi-Fi
+    - LoRa Wi-Fi
+    - Solar Tracking Panels
+    - 5mb
+    - Kenya
+  icon: website
+  image: images/project.jpg
+  
+- name: Juluh
+  url: https://juluh.netlify.app
+  description: The company to replace my current company OwlSec Technologies and as a parent company for all projects listed above and more e.g Futuristic Farms, Solar Tiles, Electric Cars, Electronics, Drone and other manufactury
+  status: in progress
+  tags:
+    - Manufacturing Company
+    - Tech company
   icon: website
   image: images/project.jpg
